@@ -6,6 +6,9 @@ public class Exercise02 {
         double r = 15;
         double a, l;
 
+        a = r * r * 3.14;
+        l = 2 * r * 3.14;
+
         // TODO: ↓ Fórmula del área de un círculoS: a = radio * radio * Número PI
 
         System.out.println("Area: " + a);
